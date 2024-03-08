@@ -31,7 +31,7 @@ int main(){
 
         //after sorting formula
         cout << "\nAfter sorting\n";
-        for(int i = 0; i < amountOfData; i++){
+        for(int i = 1; i <= amountOfData; i++){
             cout << x[i] << " ";
         }
 
